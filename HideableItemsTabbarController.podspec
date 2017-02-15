@@ -26,7 +26,8 @@ TODO: Add long description of the pod here.
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'stepanvotava' => 'stepan.votava@inloop.eu' }
   s.source           = { :git => 'https://github.com/inloop/HideableItemsTabbarController.git', :tag => s.version.to_s }
-  # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
+  s.summary          = 'Custom hideable TabBar with hideable items on the fly'
+  s.description      = 'Simple custom TabBar hideable with animation which can hide and show items on the fly.'
 
   s.ios.deployment_target = '9.0'
 
